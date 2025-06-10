@@ -9,7 +9,7 @@ const KelasPage = () => {
         <Row>
           <Col>
           <h1 className="fw-bold text-center">Semua Kelas</h1>
-          <p className="text-center">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+          <p className="text-center">Lorem ipsum dolor</p>
           </Col>
         </Row>
         <Row>
